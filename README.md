@@ -1,2 +1,2 @@
-# the-supporting-data
-Please read the README.md file before downloading the supporting data. 论文支撑数据，下载前请阅读README.md文件。 
+# 支撑数据的使用说明
+如在科研工作中使用了作者提供的数据和程序等附件内容，请务必在研究成果上注明引文和下载附件出处。 
